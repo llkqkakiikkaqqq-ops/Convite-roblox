@@ -7,7 +7,7 @@
   <!-- Open Graph: altera a prévia que serviços (Discord, Facebook, Telegram etc.) exibem -->
   <meta property="og:title" content="🎮 Entre no jogo!" />
   <meta property="og:description" content="Clique para entrar — venha jogar com a gente." />
-  <meta property="og:image" content="https://www.roblox.com/share?code=043b3f4e3e6c784e84c715999fcdc66d&type=Server" />
+  <meta property="og:image" content="https://www.google.com/search/about-this-image?img=H4sIAAAAAAAAAAE4AMf_IjYKNAic-rSSxbfzlb0BEAMYASIQINwYI7TjQ8a4Spue_7TkNTIGIgJjZygLOIjju_-v448DUADOHgKZOAAAAA&sa=X&ved=2ahUKEwj9uff_r-OPAxVTrpUCHe0zDYYQs6gLegQICxAB" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta name="twitter:card" content="summary_large_image" />
